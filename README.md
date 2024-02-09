@@ -12,6 +12,13 @@
   we can transcend it." - <strong>Michio Kaku</strong>
 </div>
 
+## Table of Contents
+
+- [Meaning](#what-is-time-travel)
+- [Theoretical Basis](#theoritical-foundation)
+- [Possibility of Time Travel](#is-time-travel-really-possible)
+- [TLDR;](#tldr)
+
 ## What Is Time Travel?
 
 It is is a concept that involves moving between different points in time,
