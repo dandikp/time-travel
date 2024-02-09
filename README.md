@@ -4,12 +4,12 @@
   :mantelpiece_clock::rocket::watch:
 </div>
 <div align="center">
-  <strong>Fun functional programming</strong>
+  <strong>Unlocking the secrets of time</strong>
 </div>
 <div align="center">
   "The time machine will be the most important invention in the history of
   science. In the past, we were slaves to the clock; now, with time travel,
-  we can transcend it." - <strong>Michio Kaku</strong>
+  we can transcend it." - <strong><i>Michio Kaku</i></strong>
 </div>
 
 ## Table of Contents
